@@ -1,0 +1,61 @@
+{
+
+	"profile":{
+		"img":"Tulips.jpg",
+		"name":"srilatha",
+		"roll":"16NN1A1242",
+		"colleage":"vignan",
+		"place":"Guntur"
+
+	},
+	"career":{
+		"info":"succeed in a stimulating and challenging environment that will provide me with advancement opportunities."
+             
+             },
+      "educational":[
+      	{
+      		"degree":"btech",
+      		"institution":"vignan",
+      		"yop":"2020"
+      	},
+      	{
+      		"degree":"intermediate",
+      		"institution":"gayatri",
+      		"yop":"2016"
+      	},
+      	{
+      		"degree":"ssc",
+      		"institution":"guntur",
+      		"yop":"2016"
+      	}
+      ],
+      "languages":[
+      	{
+      		"lang":"telugu"
+      	},
+      	{
+      		"lang":"english"
+      	},
+      	{
+      		"lang":"hindi"
+      	}
+
+      ],
+      "skills":[
+      	{
+     	 	"title":"platforms",
+      		"content": "windows,linus"
+        },
+	  {
+		"title":"programming languages",
+		"content": "c,c++,java"
+      },
+{
+	"title": "database",
+	"content": "mysql"
+}
+]
+}
+
+
+
